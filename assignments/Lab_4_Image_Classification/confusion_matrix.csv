@@ -1,0 +1,5 @@
+"Actual","Predicted","Freq"
+"C","C",1
+"P","C",0
+"C","P",0
+"P","P",1
